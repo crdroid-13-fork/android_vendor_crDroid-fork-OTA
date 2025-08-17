@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "",
+      "oem": "Redmi",
+      "device": "Redmi Note 11",
+      "filename": "crDroidAndroid-13.0-20250711-spes-v9.30.zip",
+      "download": "https://github.com/muralivijay/crdroid_a13_OTA_spes/releases",
+      "timestamp": ,
+      "md5": "",
+      "sha256": "b8873ef654d68a271de8ed3aeb26a4404a7517b5e288f35e25dec93df90ecbf9",
+      "size": ,
+      "version": "9.30",
+      "buildtype": "Unofficial",
+      "forum": "",
+      "gapps": "",
+      "firmware": "https://xiaomifirmwareupdater.com/firmware/spes/",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/muralispes",
+      "dt": "https://github.com/muralivijay/android_device_xiaomi_spes.git",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}

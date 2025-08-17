@@ -1,0 +1,22 @@
+
+====================
+Highlights & Device Specific Changes:
+====================
+
+Build type: Monthly
+Device: Redmi Note 11 (spes|spesn)
+Device maintainer: Muralidharan
+
+===== 2025.07.11 =====
+• Updated to 9.30
+• Fixed SoundPicker issue.
+• Fixed NFC
+• Fixed Back gesture haptic
+• Fixed lag while app opening and QS lags
+• And some lmkd fixes
+• CrdroidSettings: fixed icons for pif and gaming spoof
+• CrdroidSettings: Reorganized misc fragments
+• Settings: Implemented new intensity based haptic feedback under settings-> sounds
+• Kernel: Fixed thermal driver crash and panic
+• Kernel: Enabled KSM for better ram management.
+• Kernel: Fixed android binder keeps spams returned -22.
