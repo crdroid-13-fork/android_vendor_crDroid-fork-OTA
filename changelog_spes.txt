@@ -7,6 +7,22 @@ Build type: Monthly
 Device: Redmi Note 11 (spes|spesn)
 Device maintainer: Muralidharan
 
+===== 2025.09.22 =====
+• Updated to 9.32
+• Rom: September Security patch
+• Rom: Added support hide developer options (Crdroid settings-»misc)
+• Rom: Some NPE and broken stuff fixes on Settings app
+• Device: Droped Micamera . And added Googlecamera BSG for gapps build . aperture for vanila build
+• Device: Cleanup Unused camera sensor,flash, eeprom and other unsued camera blobs
+• Device: Enabled R8 optimizations for SystemUI & system_server ( better ram management and app opening and install time).
+• Device: Enabled full ART optimizations with VDEX/ODEX
+• Device: Force enabled Volte/VoWifi/Vilite for all carriers by default . (no need flash any kind of zip for it)
+• Device: Address Some selinux denials for bluetooth .ims and some ril properties
+• Device: And Some other Misc Fixes
+• Kernel: merge tag LA.UM.9.15.2.r1-12000-KAMORTA.QISI14.0 from clo
+• Kernel: Update front camera gpio pin
+• Kernel: Remove unused cam vio,vana,vdig,vaf supplies from all eeproms.
+
 ===== 2025.07.11 =====
 • Updated to 9.30
 • Fixed SoundPicker issue.
