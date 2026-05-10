@@ -7,6 +7,23 @@ Build type: Monthly
 Device: Redmi Note 11 (spes|spesn)
 Device maintainer: Muralidharan
 
+===== 2026.05.10 =====
+• Updated to 9.36
+• ROM: Shake Gesture 
+• ROM: Reorganized misc 
+• ROM: AutoFix vbmeta detection
+• ROM: Update New PIF (inject) implementation
+• ROM: Disable flash sms 
+• ROM: Hide applist from matrix
+• ROM: Fixed Landscape Notification bug
+• ROM: Inbuilt Trickystore 
+• ROM: Some other minor fixes in rom source
+• Kernel: Upstreamed kernel source from lineage_qcom_sm8250_common
+
+===== 2025.12.24 =====
+• Updated to 9.35
+• December Security patch
+
 ===== 2025.09.22 =====
 • Updated to 9.32
 • Rom: September Security patch
